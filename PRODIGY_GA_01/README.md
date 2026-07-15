@@ -1,4 +1,4 @@
-# 🤖 PRODIGY_GA_02 - Custom GPT-2 Chatbot
+# 🤖 PRODIGY_GA_01 - Custom GPT-2 Chatbot
 
 ## 📌 Task
 
