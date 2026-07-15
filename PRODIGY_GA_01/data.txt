@@ -1,0 +1,101 @@
+Artificial Intelligence is transforming industries across the world.
+
+Machine Learning is a branch of Artificial Intelligence that enables computers to learn from data.
+
+Deep Learning uses neural networks with multiple layers to recognize patterns.
+
+Natural Language Processing allows computers to understand and generate human language.
+
+Generative AI can create text, images, music, videos, and code.
+
+GPT-2 is a transformer-based language model developed for text generation.
+
+Transformers use self-attention mechanisms to understand relationships between words.
+
+Python is one of the most popular programming languages for Artificial Intelligence.
+
+PyTorch is a deep learning framework widely used for research and development.
+
+The future of Artificial Intelligence depends on responsible innovation and ethical development.
+
+Large Language Models can answer questions, summarize information, and generate creative content.
+
+Artificial Intelligence is becoming an important technology in healthcare, education, finance, and engineering.
+
+Machine learning algorithms improve their performance through experience.
+
+Neural networks are inspired by the structure of the human brain.
+
+Computer vision enables machines to recognize and analyze images.
+
+Speech recognition converts spoken language into text.
+
+Recommendation systems help users discover relevant products and services.
+
+Data is one of the most valuable resources in modern Artificial Intelligence.
+
+Training a neural network requires large amounts of quality data.
+
+Testing evaluates the performance of an AI model on unseen data.
+
+Validation helps optimize model performance during training.
+
+Overfitting occurs when a model memorizes training data instead of learning patterns.
+
+Regularization techniques help reduce overfitting.
+
+Gradient descent is an optimization algorithm used to train neural networks.
+
+Backpropagation updates model parameters by minimizing prediction errors.
+
+Activation functions introduce non-linearity into neural networks.
+
+ReLU is one of the most commonly used activation functions.
+
+Softmax is used for multi-class classification problems.
+
+Loss functions measure how well a model performs.
+
+Epochs represent complete passes through the training dataset.
+
+Batches divide large datasets into smaller groups during training.
+
+Fine-tuning adapts a pre-trained model to a specific task.
+
+Transfer learning saves time by reusing knowledge from existing models.
+
+Hugging Face provides powerful tools for Natural Language Processing.
+
+Tokenization converts text into numerical representations.
+
+Each token represents a word or a part of a word.
+
+GPT models predict the next token based on previous context.
+
+Context helps language models generate meaningful sentences.
+
+Prompt engineering improves the quality of AI-generated responses.
+
+Artificial Intelligence can assist software developers by generating code.
+
+AI chatbots provide customer support around the clock.
+
+Image generation models create realistic pictures from text prompts.
+
+Diffusion models gradually remove noise to generate images.
+
+Stable Diffusion is a popular text-to-image generation model.
+
+GANs consist of a generator and a discriminator competing during training.
+
+Pix2Pix is a conditional GAN used for image-to-image translation.
+
+Neural Style Transfer combines the content of one image with the artistic style of another.
+
+Ethical AI promotes fairness, transparency, accountability, and privacy.
+
+Explainable AI helps users understand how models make decisions.
+
+Responsible AI development considers safety and social impact.
+
+Continuous learning enables AI systems to improve as new data becomes available.
